@@ -17,6 +17,7 @@ class AlgoritmoDJ{
     private void start(){
         System.out.println("[OK] starting . . .");
     
+	System.out.println("Inicializando");
     } 
     public static void main(String[] args) {
         AlgoritmoDJ algoritmoDJ = new AlgoritmoDJ();
