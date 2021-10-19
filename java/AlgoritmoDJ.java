@@ -15,9 +15,8 @@ class AlgoritmoDJ{
      * En este metodo se incia el algoritmo
      */
     private void start(){
-        System.out.println("[OK] starting . . .");
-    
-	System.out.println("Inicializando");
+	System.out.println("Inicializando Algoritmo Dijkstra's");
+	
     } 
     public static void main(String[] args) {
         AlgoritmoDJ algoritmoDJ = new AlgoritmoDJ();
